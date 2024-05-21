@@ -1,1 +1,1 @@
-# inferencia_modelacion_estadistica
+# Inferencia_modelacion_estadistica

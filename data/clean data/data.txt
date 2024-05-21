@@ -1,0 +1,1 @@
+En esta carpeta se deben agregar los datos sucios exportados de la página
