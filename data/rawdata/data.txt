@@ -1,1 +1,0 @@
-En esta carpeta se deben agregar los datos limpios exportados desde el ETL.ipynb
