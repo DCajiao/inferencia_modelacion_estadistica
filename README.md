@@ -14,4 +14,6 @@
 
 *[¿Cómo hicimos el ETL?](https://github.com/DCajiao/inferencia_modelacion_estadistica/blob/main/Informe%20Procesos%20de%20ETL%20Proyecto%203.pdf)*
 
+*[¿Cómo hicimos el ETL? - Notebook](https://github.com/DCajiao/inferencia_modelacion_estadistica/blob/main/notebooks/ETL.ipynb)*
+
 ---
